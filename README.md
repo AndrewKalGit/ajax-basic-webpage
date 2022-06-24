@@ -1,4 +1,4 @@
-# FIFO - Fridge Expiration Date tracker
+# FIFO - Fridge Expiration Date Tracker
 Inventory tracker for your own personal Fridge at home.
 # MVP
 1. Complete index.html page, with HTML DOM 
@@ -11,8 +11,10 @@ Inventory tracker for your own personal Fridge at home.
     - App replicates the FIFO model in perishable products 
 5. Deploy using heroku or netlify 
 
-# WireFrames
+# WireFrames 
+![App_Home](./wireframe.png)
 
+![Inside_Fridge](./wireframe-in-app.png)
 # Implement:
 1. AJAX request 
 2. REST API 
